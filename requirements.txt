@@ -1,0 +1,4 @@
+pandas
+kaggle
+SQLAlchemy
+psycopg2-binary
